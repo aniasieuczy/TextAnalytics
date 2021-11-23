@@ -3,6 +3,7 @@ Android | iOS | Windows
 Medium App for Android  | Medium App for iOS | Medium App for Windows
 Here is a way more content and let's look how it is allign | here a little text | again little text
 [Play Store](https://play.google.com/store?gl=PL&utm_source=emea_Med&utm_medium=hasem&utm_content=Nov2020&utm_campaign=Evergreen&pcampaignid=MKT-EDR-emea-pl-1001280-Med-hasem-py-Evergreen-Nov2020-Text_Search_SKWS%7cONSEM_kwid_43700007820097948&gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Eu475jKukIdtNaYwPmUjnQl13ovd5CfCbUYEH3NSgWYqIphPklD5hoCwkMQAvD_BwE&gclsrc=aw.ds) | [App store](https://www.recharge.com/pl/pl/app-store-itunes/50-pln) | [Just web](www.google.pl)
+![](https://pics.freeicons.io/uploads/icons/png/15798659891536125452-512.png) | ![iOS](https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png "Some text") | ![](https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553295-102_84846.png)
 
 
 
